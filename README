@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=335
+
+This color scheme mimics vim's default behavior on a non-color terminal (like vt100), in a color terminal (like xterm, rxvt, etc.) Great for if you have a complex colorful background image and transparent terminals.
+
+Screenshot: http://hans.fugal.net/vim/colors/bw.vim.html
